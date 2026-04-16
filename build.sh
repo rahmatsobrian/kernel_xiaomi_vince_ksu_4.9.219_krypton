@@ -20,7 +20,7 @@ TC32="arm-linux-gnueabi-"
 
 # ================= INFO =================
 KERNEL_NAME="ReLIFE"
-DEVICE="mi8937"
+DEVICE="vince"
 
 # ================= DATE (WIB) =================
 DATE_TITLE=$(TZ=Asia/Jakarta date +"%d%m%Y")
